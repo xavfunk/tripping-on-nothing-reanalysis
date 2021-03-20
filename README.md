@@ -1,7 +1,7 @@
 ## Placebos, Psychedelics and Honest Reporting
 
 ## Overview
-This project will take a second the data presented in the 2020 study ['Tripping on nothing: placebo psychedelics and contextual factors'](https://link.springer.com/article/10.1007/s00213-020-05464-5#Fig2) published in Psychopharmacology. The paper was presented in an online meeting of Oldenburg's UniMind group in February 2021. Most notably, it contained the graph shown below, which I find appauling, for three reasons:
+This project will take a second look at the data presented in the 2020 study ['Tripping on nothing: placebo psychedelics and contextual factors'](https://link.springer.com/article/10.1007/s00213-020-05464-5#Fig2) published in Psychopharmacology. The paper was presented in an online meeting of Oldenburg's UniMind group in February 2021. Most notably, it contained the graph shown below, which I find appauling, for three reasons:
 
 1. The graph is cluttered, yet does not convey relevant information
 2. The authors compare **individual** 5D-ASC scores with **means** from other studies
