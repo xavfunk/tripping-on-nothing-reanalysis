@@ -25,7 +25,7 @@ Interestingly, as it turns out, the authors did not actually plot the changes in
 <br>
 <br>
 
-<img src=https://github.com/xavfunk/tripping-on-nothing-reanalysis/blob/main/changes_in_exp_pre_post.png alt="figure2" width="700"/>
+<img src=https://github.com/xavfunk/tripping-on-nothing-reanalysis/blob/main/changes_in_exp_pre_post.jpeg alt="figure2" width="700"/>
 
 </br>
 </br>
@@ -38,7 +38,7 @@ Reproducing the Figure 2 with the mean and the ouliers: (note that the average a
 <br>
 <br>
 
-<img src=https://github.com/xavfunk/tripping-on-nothing-reanalysis/blob/main/figure2_new.png alt="figure2" width="700"/>
+<img src=https://github.com/xavfunk/tripping-on-nothing-reanalysis/blob/main/figure2_new.jpeg alt="figure2" width="700"/>
 
 </br>
 </br>
