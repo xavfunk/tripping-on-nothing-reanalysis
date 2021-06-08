@@ -11,7 +11,7 @@ This project will take a second the data presented in the 2020 study ['Tripping 
 <br>
 <br>
 
-<img src="figure2.jpg" alt="figure2" width="700"/>
+<img src="https://github.com/xavfunk/tripping-on-nothing-reanalysis/blob/main/figure2.JPG" alt="figure2" width="700"/>
 
 </br>
 </br>
