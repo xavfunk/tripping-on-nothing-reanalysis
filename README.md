@@ -31,8 +31,7 @@ Interestingly, as it turns out, the authors did not actually plot the changes in
 </br>
 </div>
 
-Reproducing the Figure 2 with the mean and the ouliers: (note that the average across all dimensions is mssing here)
-
+Reproducing the Figure 2 with the mean and the ouliers: (note that the average across all dimensions is missing here)
 
 <div>
 <br>
